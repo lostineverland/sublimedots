@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Elm Language Support",
+		"Markdown Preview",
+		"Origami",
+		"Package Control",
+		"Pretty JSON",
+		"SublimeREPL"
+	]
+}

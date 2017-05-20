@@ -1,0 +1,5 @@
+[
+  { "keys": ["super+alt+r"], "command": "toggle_setting", "args": {"setting": "word_wrap"} },
+  { "keys": ["super+alt+n"], "command": "run_existing_window_command", "args": {"file": "config/NodeJS/Main.sublime-menu", "id": "repl_node"} },
+  { "keys": ["super+alt+m"], "command": "git_graph_all" }
+]
