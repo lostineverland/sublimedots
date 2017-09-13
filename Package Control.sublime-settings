@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Elm Language Support",
+		"Jump Along Indent",
 		"Markdown Preview",
 		"Origami",
 		"Package Control",

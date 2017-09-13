@@ -2,5 +2,10 @@
   { "keys": ["super+alt+r"], "command": "toggle_setting", "args": {"setting": "word_wrap"} },
   { "keys": ["super+alt+n"], "command": "run_existing_window_command", "args": {"file": "config/NodeJS/Main.sublime-menu", "id": "repl_node"} },
   { "keys": ["super+alt+m"], "command": "git_graph_all" },
-  { "keys": ["super+alt+i"], "command": "python_virtualenv_repl" }
+  { "keys": ["super+alt+i"], "command": "python_virtualenv_repl" },
+  // Jump Along Index keymapping changes
+  { "keys": ["alt+up"], "command": "jump_prev_indent" },
+  { "keys": ["alt+shift+up"], "command": "jump_prev_indent", "args": { "extend_selection": true} },
+  { "keys": ["alt+down"], "command": "jump_next_indent" },
+  { "keys": ["alt+shift+down"], "command": "jump_next_indent", "args": { "extend_selection": true} }
 ]
