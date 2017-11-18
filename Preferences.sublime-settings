@@ -2,7 +2,8 @@
 	"added_words":
 	[
 		"Spotify",
-		"recents"
+		"recents",
+		"microservice"
 	],
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"font_size": 15,
@@ -14,6 +15,7 @@
 	[
 		"playlist"
 	],
+	"scroll_past_end": true,
 	"spell_check": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true
