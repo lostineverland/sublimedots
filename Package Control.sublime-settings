@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Elm Language Support",
+		"Jira",
 		"Jump Along Indent",
 		"Markdown Preview",
 		"MoveTab",
