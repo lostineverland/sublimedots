@@ -3,7 +3,8 @@
 	[
 		"Spotify",
 		"recents",
-		"microservice"
+		"microservice",
+		"productionize"
 	],
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"font_size": 17,
