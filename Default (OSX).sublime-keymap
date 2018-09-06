@@ -19,5 +19,7 @@
   { "keys": ["ctrl+super+alt+shift+up"], "command": "destroy_pane", "args": {"direction": "up"} },
   { "keys": ["ctrl+super+alt+shift+right"], "command": "destroy_pane", "args": {"direction": "right"} },
   { "keys": ["ctrl+super+alt+shift+down"], "command": "destroy_pane", "args": {"direction": "down"} },
-  { "keys": ["ctrl+super+alt+shift+left"], "command": "destroy_pane", "args": {"direction": "left"} }
+  { "keys": ["ctrl+super+alt+shift+left"], "command": "destroy_pane", "args": {"direction": "left"} },
+  // exit from inner context like parens or quotes
+  { "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true} }
 ]
