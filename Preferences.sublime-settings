@@ -19,5 +19,6 @@
 	"scroll_past_end": true,
 	"spell_check": true,
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"disable_auto_match_single_quote": false,
 }

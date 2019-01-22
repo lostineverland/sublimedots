@@ -1,0 +1,4 @@
+{
+  "word_separators": "/\\()\"',;!@$%^&|+=[]{}`~?",
+  "disable_auto_match_single_quote": true,
+}
