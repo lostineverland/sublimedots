@@ -1,0 +1,6 @@
+{
+  "jira_server": "https://jirapro.bose.com",
+  "jira_login": "cb1032068",
+  "jira_password": "*************************************",
+  "jira_default_project": "CASTLE"
+}
