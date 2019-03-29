@@ -62,6 +62,9 @@
       { "key": "eol_selector", "operator": "not_equal", "operand": "string.quoted.double - punctuation.definition.string.end", "match_all": true },
     ]
   },
+  // zoom and distraction free
+  { "keys": ["super+k", "super+k"], "command": "unzoom_pane" },
+  { "keys": ["super+shift+\\"], "command": "toggle_tabs" },
   // Auto-pair single quotes
   //  Refactored to add a single-quote switch
   //  This block replaces the default file: Packages/Default/Default (OSX).sublime-keymap
