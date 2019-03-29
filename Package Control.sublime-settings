@@ -5,15 +5,18 @@
 	],
 	"installed_packages":
 	[
+		"Dockerfile Syntax Highlighting",
 		"Elm Language Support",
 		"Floobits",
 		"Jira",
 		"Jump Along Indent",
 		"MarkdownPreview",
 		"MoveTab",
+		"orgmode",
 		"Origami",
 		"Package Control",
 		"Pretty JSON",
+		"Solarized Color Scheme",
 		"SublimeREPL"
 	]
 }
