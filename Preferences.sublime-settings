@@ -7,7 +7,7 @@
 		"productionize"
 	],
 	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).sublime-color-scheme",
-  "color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",	"disable_auto_match_single_quote": false,
+	"disable_auto_match_single_quote": false,
 	"font_size": 17,
 	"ignored_packages":
 	[
@@ -20,6 +20,6 @@
 	"scroll_past_end": true,
 	"spell_check": true,
 	"tab_size": 2,
-	"theme": "Default.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
