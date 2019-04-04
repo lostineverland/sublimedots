@@ -63,6 +63,7 @@
     ]
   },
   // zoom and distraction free
+  { "keys": ["super+k", "super+z"], "command": "zoom_pane", "args": {"fraction": 1.0} },
   { "keys": ["super+k", "super+k"], "command": "unzoom_pane" },
   { "keys": ["super+shift+\\"], "command": "toggle_tabs" },
   // Auto-pair single quotes
