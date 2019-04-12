@@ -108,4 +108,12 @@
   //     { "key": "eol_selector", "operator": "not_equal", "operand": "string.quoted.single - punctuation.definition.string.end", "match_all": true },
   //   ]
   // },
+  // Open a terminal view at current file directory
+  {
+      "keys": ["super+alt+t"], "command": "terminus_open", "args": {
+          "config_name": "Default",
+          "cwd": "${file_path:${folder}}"
+      }
+  },
+
 ]
