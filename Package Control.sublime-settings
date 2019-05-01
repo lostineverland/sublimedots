@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Dockerfile Syntax Highlighting",
+		"EDN",
 		"Elm Language Support",
 		"Floobits",
 		"Jira",
