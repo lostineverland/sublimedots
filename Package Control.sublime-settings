@@ -8,7 +8,6 @@
 		"Dockerfile Syntax Highlighting",
 		"EDN",
 		"Elm Language Support",
-		"Floobits",
 		"Jira",
 		"Jump Along Indent",
 		"MarkdownPreview",
@@ -19,7 +18,6 @@
 		"Pretty JSON",
 		"Solarized Color Scheme",
 		"SublimeREPL",
-		"Table Editor",
-		"Terminus"
+		"Table Editor"
 	]
 }
