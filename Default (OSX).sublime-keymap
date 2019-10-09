@@ -22,6 +22,8 @@
   { "keys": ["ctrl+super+alt+shift+left"], "command": "destroy_pane", "args": {"direction": "left"} },
   // exit from inner context like parens or quotes
   { "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true} },
+  // evaluate clojure block
+  { "keys": ["super+shift+b"], "command": "repl_transfer_current", "args": {"scope": "block"} },
 
   // Auto-pair backticks
   { "keys": ["`"], "command": "insert_snippet", "args": {"contents": "`$0`"}, "context":
